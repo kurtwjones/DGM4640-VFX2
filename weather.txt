@@ -35,3 +35,6 @@ Sacramento Ca weather
 beveryly hills CA
 12:03 PM - 62 F
 12:21 PM - 63 F
+Miami FL weather
+11:14 AM - 77 F
+11:16 AM - 77 F
