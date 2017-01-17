@@ -1,6 +1,4 @@
-
 Weather in orem, utah
-
 4:50 PM - 35 F
 5:44 PM - 34 F
 7:08 PM - 34 F
@@ -34,4 +32,6 @@ Weather in orem, utah
 Sacramento Ca weather
 8:21 PM - 43 F
 8:29 PM - 43 F
-
+Miami FL weather
+11:14 AM - 77 F
+11:16 AM - 77 F
