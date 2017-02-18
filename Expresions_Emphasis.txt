@@ -1,0 +1,14 @@
+Expresions
+1.Fire-expresion for rotate
+2.Fire-expresion for translate
+3.smoke- expresion for rotate
+4.smoke- expresion for gas wind
+5.smoke- expresion for rotate
+
+Emphasis
+1.Cat has big hat to show he is magic
+2.ears are big and pointy to show he is a cat
+3.Big tails to show he is a cat
+4.Long robes to show he is magic
+5.Eyes are big and round to show its a cat
+
